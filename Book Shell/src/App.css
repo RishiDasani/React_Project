@@ -1,6 +1,9 @@
 .navbar-nav a{
   font-size: 20px ;
 }
+.navbar {
+  height: 85px;
+}
 .form-control {
   height:40px;
   width: 422px;

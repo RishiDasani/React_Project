@@ -1,12 +1,13 @@
 import React from 'react'
 import Tatvasoft_logo from './tatvasoft_logo.jpg'
+
 export default function Footer() {
   return (
     <div>
         <footer className="page-footer font-small mdb-color lighten-3 pt-4">
             <div className="container">
                 <div className="navbar-brand justify-content-center text-center" >
-                    <img src={Tatvasoft_logo} width="200" height="50" alt="Tatvasoft"/>
+                    <center><img src={Tatvasoft_logo} width="100" height="100" alt="Tatvasoft"/></center>
                 </div>
             </div>
             <div className="footer-copyright text-center py-3">
